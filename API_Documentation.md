@@ -1,4 +1,4 @@
-# Event Booking System API Documentation
+# Event Booking System API Documentation In Detail
 
 This document provides comprehensive documentation for the Event Booking System's microservices architecture, including endpoints, request/response formats, and examples.
 
